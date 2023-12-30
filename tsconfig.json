@@ -1,0 +1,6 @@
+{
+  "extends": "@meslzy/tsconfig",
+  "exclude": [
+    "node_modules"
+  ]
+}

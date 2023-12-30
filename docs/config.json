@@ -1,0 +1,36 @@
+{
+  "shortDescription": "Astonishing utility library",
+  "longDescription": "Rosetil is utility library, extremely useful for all kinds of things",
+  "features": [
+    {
+      "name": "Highly modular",
+      "description": "Rosetil is highly modular, allowing you to use only the parts you need"
+    },
+    {
+      "name": "Extremely useful",
+      "description": "Rosetil is extremely useful, allowing you to do all kinds of things"
+    }
+  ],
+  "action": {
+    "primary": {
+      "name": "Getting Started",
+      "url": "getting-started"
+    },
+    "secondary": {
+      "name": "Introduction",
+      "url": "introduction"
+    }
+  },
+  "navbar": [
+  ],
+  "sidebar": [
+    {
+      "name": "Introduction",
+      "url": "introduction"
+    },
+    {
+      "name": "Getting Started",
+      "url": "getting-started"
+    }
+  ]
+}
